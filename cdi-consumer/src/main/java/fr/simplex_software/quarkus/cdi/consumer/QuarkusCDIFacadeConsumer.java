@@ -8,5 +8,5 @@ import jakarta.inject.*;
 public class QuarkusCDIFacadeConsumer
 {
   @Inject
-  QuarkusCDIFacade uarkusCDIFacade;
+  private QuarkusCDIFacade quarkusCDIFacade;
 }

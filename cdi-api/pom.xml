@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <artifactId>cdi-api</artifactId>
-  <name>QuarkusCDI :: The API module</name>
+  <!--name>QuarkusCDI :: The API module</name-->
   <build>
     <finalName>${project.name}</finalName>
     <plugins>
